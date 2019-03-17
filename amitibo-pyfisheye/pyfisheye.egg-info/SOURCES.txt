@@ -1,7 +1,0 @@
-setup.py
-fisheye/__init__.py
-fisheye/core.py
-pyfisheye.egg-info/PKG-INFO
-pyfisheye.egg-info/SOURCES.txt
-pyfisheye.egg-info/dependency_links.txt
-pyfisheye.egg-info/top_level.txt
